@@ -7,8 +7,7 @@
 
 ### About Me :
 - 👯 Computer Science Student at UH
-- 🔭 Seeking opportunities in data science, data analytics, and software engineering
-- 🌱 Currently working on a Google Data Analytics course 
+- 🔭 Incoming Software Developer
 - 📚 In my free time, I play chess, workout, hangout with friends, and listen to music.
 
 ## Languages/Tools: 
