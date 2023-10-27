@@ -6,8 +6,7 @@
 ---
 
 ### About Me :
-- 👯 Computer Science Student at UH
-- 🔭 Incoming Software Developer
+- 🔭 Software Developer @ Paycom
 - 📚 In my free time, I play chess, workout, hangout with friends, and listen to music.
 
 ## Languages/Tools: 
